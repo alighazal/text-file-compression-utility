@@ -1,6 +1,4 @@
-this compression utitiy is made by Ali Ghazal - 900171722
-for CS321 class assignment
-
+this compression utitiy is made by Ali Ghazal
 How to use:
 
 1- copy your .txt file into the location of your the project
