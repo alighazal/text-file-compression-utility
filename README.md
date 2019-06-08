@@ -16,10 +16,6 @@ while in case of decoding it would have the lable "-decoded.txt" at the end.
 
 after finishing the encoding proceess this program displays the compression ratio and the encoding efficiency.
 
-notice:
-
-attatched to this program a sample of the files used to test the program:
-
 example:
 
 orginal file: novel.txt
